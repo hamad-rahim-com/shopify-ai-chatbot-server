@@ -1,0 +1,270 @@
+{
+  "anonymous": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "looking for some man shoes"
+      },
+      {
+        "role": "user",
+        "text": "why so"
+      },
+      {
+        "role": "user",
+        "text": "looking for shirts"
+      },
+      {
+        "role": "user",
+        "text": "hey bot"
+      },
+      {
+        "role": "user",
+        "text": "hey bot"
+      },
+      {
+        "role": "user",
+        "text": "hey bot"
+      },
+      {
+        "role": "user",
+        "text": "hey bot"
+      },
+      {
+        "role": "assistant",
+        "text": "Hello there!\n\nIt seems you were looking for shirts earlier. We have these options available:\n\n*   **Chequered Red Shirt** for a classic plaid look, priced at $50. [https://hamadtest-store.myshopify.com/products/chequered-red-shirt]\n*   **Ocean Blue Shirt** with unique tiled patterns, priced at $50. [https://hamadtest-store.myshopify.com/products/ocean-blue-shirt]\n\nWould you like to explore other styles, or perhaps something else?"
+      },
+      {
+        "role": "user",
+        "text": "hey bot"
+      },
+      {
+        "role": "user",
+        "text": "shirts avaialble?"
+      }
+    ]
+  },
+  "user_1763977796310": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "looking for man shoes"
+      },
+      {
+        "role": "assistant",
+        "text": "We have these awesome LED High Tops that would be perfect for you!"
+      }
+    ]
+  },
+  "user_1763977818382": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "also wanna see some shirts"
+      },
+      {
+        "role": "assistant",
+        "text": "Here are some shirts you might like!"
+      }
+    ]
+  },
+  "user_1763978971415": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "looking for some shirts"
+      },
+      {
+        "role": "assistant",
+        "text": "Here are some shirts you might like!"
+      }
+    ]
+  },
+  "user_1763979057254": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "any man shirts"
+      },
+      {
+        "role": "assistant",
+        "text": "Here are a couple of popular men's shirts you might like!"
+      }
+    ]
+  },
+  "user_1763979184916": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "any thing more you can suggest for styling on shirt"
+      },
+      {
+        "role": "assistant",
+        "text": "We have a great selection of shirts you might enjoy for different styling options! Check out these varied styles."
+      }
+    ]
+  },
+  "user_1763979222379": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "any thing else to wear on the shirt like winter season"
+      },
+      {
+        "role": "assistant",
+        "text": "It looks like you're searching for something to wear over a shirt for winter, like a jacket or a sweater. Could you clarify what type of item you're looking for?"
+      }
+    ]
+  },
+  "user_1763979241285": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "can go with both"
+      },
+      {
+        "role": "assistant",
+        "text": "Could you please clarify what 'both' refers to? For example, are you looking for something that can be worn by both men and women, or suitable for both casual and formal occasions?"
+      }
+    ]
+  },
+  "user_1763979269760": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "it should be man specific and for formal occasions"
+      },
+      {
+        "role": "assistant",
+        "text": "For man-specific formal occasions, I recommend the elegant Blue Silk Tuxedo and the sophisticated Ocean Blue Shirt."
+      }
+    ]
+  },
+  "user_1763979294089": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "and for casusal puprose winter wearable?"
+      },
+      {
+        "role": "assistant",
+        "text": "For casual winter wear, I'd suggest these warm and comfortable options!"
+      }
+    ]
+  },
+  "user_1763979321234": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "great thanks for suggestions"
+      },
+      {
+        "role": "assistant",
+        "text": "You're welcome! Is there anything specific you are looking for, or can I help you browse a particular category?"
+      }
+    ]
+  },
+  "user_1763979576751": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "are these jackets in differnet sizes i am looking for medium size"
+      },
+      {
+        "role": "assistant",
+        "text": "I apologize, but I don't have information about specific sizes for these jackets in my current data. Would you like me to show you all available jackets, and you can check for sizes on the product page?"
+      }
+    ]
+  },
+  "user_1763979599638": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "looks great idea plese proceed"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm ready to help you find something great! What kind of products are you interested in today?"
+      }
+    ]
+  },
+  "user_1763979613418": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "female jackets"
+      },
+      {
+        "role": "assistant",
+        "text": "Here are some lovely female jackets that match your search!"
+      }
+    ]
+  },
+  "user_1763979697887": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "i lost the chat histroy what was the first product i have asked for"
+      },
+      {
+        "role": "assistant",
+        "text": "I apologize, but I do not have access to your previous chat history. Could you please tell me what product you were looking for?"
+      }
+    ]
+  },
+  "user_1763979729975": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "based on our convo for past 5 mins what was the first product i asked for"
+      },
+      {
+        "role": "assistant",
+        "text": "I apologize, but I don't have access to the full conversation history to determine what the first product you asked for was. Could you please tell me again what product you were interested in?"
+      }
+    ]
+  },
+  "user_6s3zm07iy_1763980451440": {
+    "messages": [
+      {
+        "role": "user",
+        "text": "great also show female jackets"
+      },
+      {
+        "role": "assistant",
+        "text": "Here are some great female jackets you might like!"
+      },
+      {
+        "role": "user",
+        "text": "and jeans"
+      },
+      {
+        "role": "assistant",
+        "text": "I couldn't find any products explicitly listed as 'jeans' in our current inventory. Would you be interested in denim tops or other types of trousers, or perhaps something else entirely?"
+      },
+      {
+        "role": "user",
+        "text": "tops?"
+      },
+      {
+        "role": "assistant",
+        "text": "Here are some lovely women's tops, including a denim style you might be interested in!"
+      },
+      {
+        "role": "user",
+        "text": "what was the frist thing i asked for as i have lost the histroy"
+      },
+      {
+        "role": "assistant",
+        "text": "You first asked for jeans! While we don't have exact jeans, you might like our Dark Denim Top as a similar denim style."
+      },
+      {
+        "role": "user",
+        "text": "want a jacket under 50 pkr"
+      },
+      {
+        "role": "assistant",
+        "text": "I found a Soft Winter Jacket for 50 that matches your request!"
+      }
+    ]
+  }
+}
