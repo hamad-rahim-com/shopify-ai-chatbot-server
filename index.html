@@ -227,12 +227,11 @@
       send.disabled = true;
 
       try {
-        const res = await fetch('http://localhost:5000/chat', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ 
-            message,
-            sessionId: sessionId // Use persistent session ID
+        const RENDER_URL = 'YOUR_RENDER_URL_HERE'; // PASTE YOUR ACTUAL RENDER URL HERE
+        const res = await fetch(`${https://shopify-ai-chatbot-server.onrender.com}/chat`, { 
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message })
           })
         });
 
@@ -282,4 +281,5 @@
     }
   </script>
 </body>
+
 </html>
