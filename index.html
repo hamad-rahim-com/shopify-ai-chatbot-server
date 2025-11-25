@@ -226,8 +226,8 @@
       send.disabled = true;
 
       try {
-        const RENDER_URL = 'YOUR_RENDER_URL_HERE'; // PASTE YOUR ACTUAL RENDER URL HERE
-        const res = await fetch(`${https://shopify-ai-chatbot-server.onrender.com}/chat`, { 
+        const RENDER_URL = 'https://shopify-ai-chatbot-server.onrender.com'; // PASTE YOUR ACTUAL RENDER URL HERE
+        const res = await fetch(`${RENDER_URL}/chat`, { 
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ message })
@@ -282,4 +282,5 @@
 </body>
 
 </html>
+
 
